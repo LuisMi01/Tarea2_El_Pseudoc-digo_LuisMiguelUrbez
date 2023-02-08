@@ -1,7 +1,7 @@
 # Tarea2_El_Pseudoc-digo_LuisMiguelUrbez
 
 ## 1. Valores de las variables
-¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?
+__¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?__
 
 Algo ValoresDeLasVariables  
 variable a, b: entero  
@@ -37,7 +37,7 @@ Variable valor1, valor2: real
 Inicio  
    valor1 <- enter("Introduza un valor: ")  
    valor2 <- enter("Introduza otro valor: ")  
-   # tratamiento 
+   tratamiento 
    valor1 <- valor2  
    valor2 <- valor1  
    escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
