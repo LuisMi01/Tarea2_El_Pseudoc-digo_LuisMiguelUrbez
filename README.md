@@ -2,8 +2,7 @@
 
 ## 1. Valores de las variables
 __¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?__
-
-Algo ValoresDeLasVariables  
+  
 variable a, b: entero  
 Inicio  
    a <- 3  
@@ -13,11 +12,10 @@ Inicio
    a<-7  
    escribir("a = " & a & " y b = " & b)  
 Fin 
-## 2. ¿Qué se muestra?
-¿Qué veremos al ejecutar el siguiente algoritmo?
 
-Algo QueVeremos 
-# ¿Qué veremos al ejecutar el siguiente algoritmo?  
+## 2. ¿Qué se muestra?
+__¿Qué veremos al ejecutar el siguiente algoritmo?__  
+
 Variable valor1, valor2: entero  
 Variable cadena1: texto  
 Constante CST: real <- 49,78  
@@ -28,11 +26,10 @@ Inicio
    escribir(cadena1 & " , valor2 = " & valor2)  
    escribir(valor1 & " # " & CST)  
 Fin 
-## 3. ¿Qué hace?
-¿Qué hace este algoritmo?
 
-Algo QueHace  
-# ¿Qué hace este algoritmo?  
+## 3. ¿Qué hace?
+__¿Qué hace este algoritmo?__
+ 
 Variable valor1, valor2: real  
 Inicio  
    valor1 <- enter("Introduza un valor: ")  
@@ -42,8 +39,9 @@ Inicio
    valor2 <- valor1  
    escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
 Fin 
+
 ## 4. Velocidad media
-Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
+__Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.__
 
 A continuación, se muestra un ejemplo de posibles visualizaciones y entradas durante una ejecución del algoritmo (los valores introducidos por el usuario están escritos en negrita y cursiva):
 
