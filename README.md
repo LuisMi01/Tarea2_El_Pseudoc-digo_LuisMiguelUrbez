@@ -1,4 +1,6 @@
 # Tarea2_El_Pseudoc-digo_LuisMiguelUrbez
+### Mi repositorio:
+
 
 ## 1. Valores de las variables
 __¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?__
